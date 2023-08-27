@@ -1,7 +1,16 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
   </div>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/iridian-cisneros-vargas/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+     <a href="mailto:iridian95@email.com">
+    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
+  </a>
+  </div>
+  ### Hi there 👋
 <!--
 **Naidiri1/Naidiri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
