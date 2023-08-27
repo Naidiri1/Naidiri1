@@ -9,6 +9,8 @@
      <a href="mailto:iridian95@email.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=Naidiri1&style=flat-square&color=blue" alt="counter"/>
+
   </div>
     </div>
   ### Hi there 👋
