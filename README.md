@@ -20,6 +20,14 @@
 ---
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
 ### :woman_technologist: About Me :
+
+- :telescope: I’m currently working on a small business website.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Letcode or  HackerRank and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iridian-cisneros-vargas/)
 <!--
 Here are some ideas to get you started:
 
