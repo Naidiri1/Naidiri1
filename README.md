@@ -17,9 +17,10 @@
     <img src="https://komarev.com/ghpvc/?username=Naidiri1&style=flat-square&color=blue" alt="counter"/>
 </div>
 
+---
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
+### :woman_technologist: About Me :
 <!--
-**Naidiri1/Naidiri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
