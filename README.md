@@ -21,7 +21,6 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
 ### :woman_technologist: About Me :
 
-- :smile: Pronouns  (She/Her).
   
 - :telescope: I’m currently working on a small business website.
 
