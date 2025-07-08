@@ -22,11 +22,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :woman_technologist: About Me :
 
   
-- :telescope: I’m currently working on a small business website.
+- :telescope: I’m currently working on side projects.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Letcode or  HackerRank and read tech articles.
+- :zap: In my free time, I like to go to the beach, exercise and watch movies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iridian-cisneros-vargas/)
   
