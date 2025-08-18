@@ -11,11 +11,8 @@
   <a href="mailto:iridian95@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="[YOUR-PORTFOLIO-URL]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Naidiri1&style=flat-square&color=blue" alt="counter"/>
   </div>
-    <img src="https://komarev.com/ghpvc/?username=Naidiri1&style=flat-square&color=blue" alt="counter"/>
 </div>
 
 ---
@@ -50,6 +47,7 @@ I'm a Full-Stack Developer passionate about modernizing enterprise applications 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -65,9 +63,10 @@ I'm a Full-Stack Developer passionate about modernizing enterprise applications 
 ### 🌟 Featured Projects
 
 #### [Iriscope - Social Movie Platform](https://github.com/Naidiri1/iriscope)
-Full-stack application where 100+ users discover films and share reviews
-- **Tech:** React, Spring Boot, PostgreSQL, JWT Authentication
-- **Features:** Personalized lists, social reviews, recommendation engine
+Full-stack application where 100+ users discover, track and rank films and share reviews
+- **Tech:** React, JavaScript, Java, Spring Boot, PostgreSQL, JWT Authentication
+- **Features:** Personalized lists, social reviews, recommendation engine, search users
+- **Deployed:** Railway for Back end and database and Vercel for Front end
   
 ---
 
@@ -82,6 +81,10 @@ Full-stack application where 100+ users discover films and share reviews
 </div>
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidiri1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 🤝 Let's Connect!
 
