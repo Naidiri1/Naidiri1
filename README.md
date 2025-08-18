@@ -72,18 +72,10 @@ Full-stack application where 100+ users discover, track and rank films and share
 
 ### 📊 GitHub Stats
 
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Naidiri1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naidiri1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidiri1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### 🤝 Let's Connect!
