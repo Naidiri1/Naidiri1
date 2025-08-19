@@ -19,7 +19,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Full-Stack Developer passionate about modernizing enterprise applications and creating user-centered solutions.
+I'm a Software Developer passionate about modernizing enterprise applications and creating user-centered solutions.
 
 - 🚀 **Currently:** Software Developer at ComResource, transforming 200+ legacy systems into modern React/Next.js applications
 - 💡 **Impact:** Improved productivity by 40%, reduced API payload sizes by 50%, and cut post-release defects by 30%
