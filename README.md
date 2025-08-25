@@ -23,7 +23,7 @@ I'm a Software Developer passionate about modernizing enterprise applications an
 
 - 🚀 **Currently:** Software Developer at ComResource, transforming 200+ legacy systems into modern React/Next.js applications
 - 💡 **Impact:** Improved productivity by 40%, reduced API payload sizes by 50%, and cut post-release defects by 30%
-- 🎬 **Side Project:** Built [Iriscope](https://github.com/Naidiri1/iriscope), a social movie platform serving 100+ active users
+- 🎬 **Side Project:** Built [Iriscope Live](https://movie-social-app-fe-57kb.vercel.app/login), [Project Github](https://github.com/Naidiri1/movie-social-app-fe), a social movie platform serving 100+ active users
 - 🌱 **Journey:** From teaching in Mexico to software engineering - bringing unique perspectives to tech
 - 🎯 **Goal:** Joining Microsoft Leap to grow as an engineer while contributing to inclusive technology
 
@@ -62,7 +62,7 @@ I'm a Software Developer passionate about modernizing enterprise applications an
 
 ### 🌟 Featured Projects
 
-#### [Iriscope - Social Movie Platform](https://github.com/Naidiri1/iriscope)
+#### [Iriscope Live](https://movie-social-app-fe-57kb.vercel.app/login) - [Project Front-End Github](https://github.com/Naidiri1/movie-social-app-fe), [Project Back-End Github](https://github.com/Naidiri1/movie-social-app-be)
 Full-stack application where 100+ users discover, track and rank films and share reviews
 - **Tech:** React, JavaScript, Java, Spring Boot, PostgreSQL, JWT Authentication
 - **Features:** Personalized lists, social reviews, recommendation engine, search users
